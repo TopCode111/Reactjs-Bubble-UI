@@ -1,0 +1,17 @@
+.users-area {
+  width: 90%;
+  margin: 40px auto;
+}
+.deleteButton {
+  background: red;
+  color: #fff;
+  padding: 8px 15px;
+  border: none;
+  cursor: pointer;
+  font-size: 12px;
+  border-radius: 4px;
+}
+
+.deleteButton:hover {
+  background: #eb0000;
+}
